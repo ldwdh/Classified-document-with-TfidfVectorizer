@@ -1,0 +1,2 @@
+# Classified-document-with-TfidfVectorizer
+用sklearn中的TfidfVectorizer建立能给文档分类的多项式朴素贝叶斯模型
