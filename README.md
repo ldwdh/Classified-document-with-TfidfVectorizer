@@ -1,2 +1,2 @@
-# Classified-document-with-TfidfVectorizer
-用sklearn中的TfidfVectorizer建立能给文档分类的多项式朴素贝叶斯模型
+# 用朴素贝叶斯对文档进行分类
+text classification中的train是训练集数据，test是测试集数据，stop是停用词。根据训练集数据训练分类器，之后用测试集进行检验，最后给出分类器准确率
